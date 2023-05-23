@@ -1,5 +1,6 @@
 public class dif {
     public static void main(String[] args) {
-        int a =38;
+        int b =45;
+        System.out.println(b);
     }
 }
